@@ -1,0 +1,10 @@
+[package]
+name = "fable_renderer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+linkme = "*"
+ash = "*"
+ash-window = "*"
+fable_ecs = { path = "../fable_ecs" }

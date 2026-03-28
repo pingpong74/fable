@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "fable_ecs", "fable_renderer"
+]
+resolver = "3"
